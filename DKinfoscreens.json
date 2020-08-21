@@ -4,11 +4,7 @@
   "autoStart": true,
   "lazyLoadTabs": false,
   "websites": [
-    {
-      "url": "http://3shape.com",
-      "duration": 15,
-      "tabReloadIntervalSeconds": 15
-    },
+ 
     {
       "url": "http://usage.bi.3shape.local/",
       "duration": 15,
