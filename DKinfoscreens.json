@@ -49,7 +49,11 @@
       "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Smoke-free%20-%20info%20screens.jpg",
       "duration": 20,
       "tabReloadIntervalSeconds": 1
+    },
+     {
+      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Rune%20-%20info%20screens.jpg",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1
     }
-
   ]
 }
