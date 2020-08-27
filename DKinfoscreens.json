@@ -41,18 +41,18 @@
     },
      {
       "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/RA/Approvals%20Top-8%20Countries%20May%20and%20June%202020.jpg",
-      "duration": 30,
+      "duration": 10,
       "tabReloadIntervalSeconds": 1
     }
     ,
      {
       "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Smoke-free%20-%20info%20screens.jpg",
-      "duration": 20,
+      "duration": 10,
       "tabReloadIntervalSeconds": 1
     },
      {
       "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Rune%20-%20info%20screens.jpg",
-      "duration": 20,
+      "duration": 30,
       "tabReloadIntervalSeconds": 1
     }
   ]
