@@ -9,11 +9,7 @@
       "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
-    {
-      "url": "https://jira.3shape.com/login.jsp?os_destination=%2Fprojects%2FFAS%3FselectedItem%3Dcom.arijea.plugins.easy-agile-user-story-maps%26rapidView%3D674&permissionViolation=true",
-      "duration": 15,
-      "tabReloadIntervalSeconds": 300
-    }, 
+  
     {
         "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/COVID-19/wash%20your%20hands.jpg",
         "duration": 15,
