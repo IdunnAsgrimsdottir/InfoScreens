@@ -47,7 +47,17 @@
       "tabReloadIntervalSeconds": 1
     }    
     
-    
+    ,
+     {
+      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/Internal%20mobility/swtester.jpg",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1
+    } ,
+     {
+      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/Internal%20mobility/referral%20program,%20R&D.jpg",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1
+    } 
  
   ]
 }
