@@ -40,15 +40,9 @@
       "duration": 10,
       "tabReloadIntervalSeconds": 1
     }
-    ,
+        ,
      {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Smoke-free%20-%20info%20screens.jpg",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 1
-    }
-    ,
-     {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/China%20-%20production%20site.jpg",
+      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Audio_October2020.jpg",
       "duration": 20,
       "tabReloadIntervalSeconds": 1
     }    
