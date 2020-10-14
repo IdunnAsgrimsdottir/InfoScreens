@@ -8,56 +8,7 @@
       "url": "http://usage.bi.3shape.local/",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
-    },
-  
-    {
-        "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/COVID-19/wash%20your%20hands.jpg",
-        "duration": 15,
-        "tabReloadIntervalSeconds": 0
-     }, 
-    {
-        "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/COVID-19/intranet.jpg",
-        "duration": 15,
-        "tabReloadIntervalSeconds": 0
-     }, 
-      {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/Internal%20mobility/general%20info,%20IM.jpg",
-      "duration": 15,
-      "tabReloadIntervalSeconds": 15
-    },
-      {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/videos/Videostartimage.jpg",
-      "duration": 2,
-      "tabReloadIntervalSeconds": 0
-    }, 
-     {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/videos/3Shape%20Culture%20of%20Quality%20-%20Improving.mp4",
-      "duration": 219,
-      "tabReloadIntervalSeconds": 219
-    },
-     {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/RA/Approvals%20Top-8%20Countries%20July%20and%20August%202020.jpg",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 1
     }
-        ,
-     {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/intranetinfo/Audio_October%202020.jpg",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1
-    }    
-    
-    ,
-     {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/Internal%20mobility/swtester.jpg",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1
-    } ,
-     {
-      "url": "file://dk-srv-fil-01/development/Development/InformationScreens/Puk%20updates/Internal%20mobility/referral%20program,%20R&D.jpg",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 1
-    } 
  
   ]
 }
